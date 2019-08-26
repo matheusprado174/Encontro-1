@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="exercicio03.css">
+    <title>Exercício03</title>
+</head>
+<body>
+    <table>
+        <tr id="top">
+            <th  COLSPAN="6" NOWRAP="NOWRAP">Cidades mais populosas da Bahia<br>
+                (estimativa de 2009 intituto brasileiro de geografia e estatística)</th>
+        </tr>
+
+        <tr id="mid">
+            <th>Posição</th>
+            <th>Cidade</th>
+            <th>Pop.</th>
+            <th>Posição</th>
+            <th>Cidade</th>
+            <th>Pop.</th>
+        </tr>
+
+        <tr id="bot">
+            <td class="pos">1</td>
+            <td class="cidade">Salvador</td>
+            <td class="popu">2.998.056</td>
+            <td class="pos">3</td>
+            <td class="cidade">Vitória da Conquista</td>
+            <td class="popu">318.901</td>
+        </tr>
+
+        <tr id="bot">
+            <td class="pos">2</td>
+            <td class="cidade">Feira de Santana</td>
+            <td class="popu">591.707</td>
+            <td class="pos">4</td>
+            <td class="cidade">Juazeiro</td>
+            <td class="popu">243.896</td>
+        </tr>
+
+    </table>
+</body>
+</html>
